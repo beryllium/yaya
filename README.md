@@ -11,3 +11,9 @@ This is a valid Yaya file:
 // example.yaya
 {"key": "value",/* and now, an array */"key2": ["value1", "value2",]}, // trailing comment
 ```
+
+## Parsers
+
+### JavaScript
+
+- [@rgrove/parse-yaya](https://github.com/rgrove/parse-yaya)
